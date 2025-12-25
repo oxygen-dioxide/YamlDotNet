@@ -1,0 +1,13 @@
+{
+    "name": "yamldotnet",
+    "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+    "features": {},
+    "customizations": {
+		"vscode": {
+			"extensions": [
+				"hbenl.vscode-test-explorer",
+				"ms-dotnettools.csdevkit"
+			]
+		}
+	}
+}
